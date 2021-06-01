@@ -1,0 +1,28 @@
+.grid-layouts.container{
+    border: 1px solid rgb(204,23,17) !important;
+}
+.bg {
+    padding: 30px;
+    border: 1px solid rgba(86, 61, 124, 2);
+    background-color: #FCA335;
+}
+
+.bg-1 {
+    padding: 100px;
+    border: 1px solid rgba(86, 61, 124, 2);
+    background-color: #D8EB03 ;
+}
+
+.bg-2{
+    padding: 60px;
+    border: 1px solid rgba(86, 61, 124, 2);
+    background-color: #4987D0 ;  
+}
+
+.bg-3 {
+    padding: 45px;
+    border: 1px solid rgba(86, 61, 124, 2);
+    background-color: #E0E0E0 ;
+}
+
+
